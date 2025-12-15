@@ -1,0 +1,14 @@
+{
+  "total_nodes": 25313,
+  "total_edges": 146573,
+  "density": 0.0004575240117621188,
+  "num_components": 365,
+  "largest_component_nodes": 24541,
+  "largest_component_edges": 146084,
+  "largest_component_percentage": 96.95018370007506,
+  "avg_degree": 11.90530133246404,
+  "max_degree": 3602,
+  "avg_clustering": 0.6252018596343838,
+  "max_k_core": 76,
+  "suitable_for_graph_cities": true
+}

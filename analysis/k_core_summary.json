@@ -1,0 +1,15 @@
+{
+  "total_users": 24541,
+  "max_k_core": 76,
+  "min_k_core": 1,
+  "avg_k_core": 6.296931665376309,
+  "median_k_core": 3.0,
+  "expertise_distribution": {
+    "Beginner": 16418,
+    "Intermediate": 6096,
+    "Advanced": 1023,
+    "Expert": 493,
+    "Elite Expert": 277,
+    "Senior Expert": 234
+  }
+}

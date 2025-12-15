@@ -1,0 +1,28 @@
+{
+  "total_buildings": 15,
+  "total_connections": 209,
+  "most_important": "wavemap_51_18_1",
+  "highest_pagerank": 0.09690543938949706,
+  "top_5_buildings": [
+    {
+      "building": "wavemap_51_18_1",
+      "pagerank": 0.09690543938949706
+    },
+    {
+      "building": "wavemap_76_87_1",
+      "pagerank": 0.09437961008946924
+    },
+    {
+      "building": "wavemap_2_16614_1",
+      "pagerank": 0.08656431610421289
+    },
+    {
+      "building": "wavemap_18_11_1",
+      "pagerank": 0.08369793429033617
+    },
+    {
+      "building": "wavemap_3_17881_1",
+      "pagerank": 0.07841478685504966
+    }
+  ]
+}

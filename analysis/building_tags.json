@@ -1,0 +1,1505 @@
+{
+  "wavemap_76_87_1": {
+    "user_count": 157,
+    "total_tags": 151,
+    "unique_tags": 147,
+    "diversity": 4.977,
+    "top_5_tags": [
+      "|operational-amplifier|photodiode|",
+      "|microprocessor|",
+      "|mosfet|nmos|",
+      "|microcontroller|mosfet|pwm|h-bridge|",
+      "|transistors|h-bridge|npn|pnp|"
+    ],
+    "top_10_tags": [
+      "|operational-amplifier|photodiode|",
+      "|microprocessor|",
+      "|mosfet|nmos|",
+      "|microcontroller|mosfet|pwm|h-bridge|",
+      "|transistors|h-bridge|npn|pnp|",
+      "|batteries|protection|lipo|undervoltage|",
+      "|voltage|bus|open-drain|",
+      "|power|usb|switching|",
+      "|ground|logic-analyzer|",
+      "|transistors|pwm|led-driver|"
+    ],
+    "top_20_tags": [
+      "|operational-amplifier|photodiode|",
+      "|microprocessor|",
+      "|mosfet|nmos|",
+      "|microcontroller|mosfet|pwm|h-bridge|",
+      "|transistors|h-bridge|npn|pnp|",
+      "|batteries|protection|lipo|undervoltage|",
+      "|voltage|bus|open-drain|",
+      "|power|usb|switching|",
+      "|ground|logic-analyzer|",
+      "|transistors|pwm|led-driver|",
+      "|amplifier|circuit-analysis|bjt|",
+      "|pcb|emc|signal-integrity|",
+      "|microcontroller|computer-architecture|",
+      "|npn|8051|pnp|",
+      "|pcb|",
+      "|microcontroller|assembly|8051|",
+      "|8051|c51|",
+      "|emc|",
+      "|led|analog|",
+      "|voltage|led|constant-current|"
+    ],
+    "tag_counts": {
+      "|operational-amplifier|photodiode|": 3,
+      "|microprocessor|": 2,
+      "|mosfet|nmos|": 2,
+      "|microcontroller|mosfet|pwm|h-bridge|": 1,
+      "|transistors|h-bridge|npn|pnp|": 1,
+      "|batteries|protection|lipo|undervoltage|": 1,
+      "|voltage|bus|open-drain|": 1,
+      "|power|usb|switching|": 1,
+      "|ground|logic-analyzer|": 1,
+      "|transistors|pwm|led-driver|": 1,
+      "|amplifier|circuit-analysis|bjt|": 1,
+      "|pcb|emc|signal-integrity|": 1,
+      "|microcontroller|computer-architecture|": 1,
+      "|npn|8051|pnp|": 1,
+      "|pcb|": 1,
+      "|microcontroller|assembly|8051|": 1,
+      "|8051|c51|": 1,
+      "|emc|": 1,
+      "|led|analog|": 1,
+      "|voltage|led|constant-current|": 1
+    },
+    "avg_tags_per_user": 0.96,
+    "expertise_domains": [
+      [
+        "Arduino/Microcontrollers",
+        3
+      ],
+      [
+        "Analog Circuits",
+        3
+      ],
+      [
+        "Motors/Actuators",
+        3
+      ],
+      [
+        "PCB Design",
+        2
+      ],
+      [
+        "Audio/Video",
+        2
+      ]
+    ],
+    "primary_domain": "Arduino/Microcontrollers"
+  },
+  "wavemap_51_18_1": {
+    "user_count": 337,
+    "total_tags": 435,
+    "unique_tags": 419,
+    "diversity": 6.021,
+    "top_5_tags": [
+      "|capacitor|",
+      "|operational-amplifier|",
+      "|altium|",
+      "|transistors|",
+      "|transistors|bjt|"
+    ],
+    "top_10_tags": [
+      "|capacitor|",
+      "|operational-amplifier|",
+      "|altium|",
+      "|transistors|",
+      "|transistors|bjt|",
+      "|pcie|pci|",
+      "|uart|serial|",
+      "|stm32|video|decoder|",
+      "|power-supply|power|usb|usb-c|",
+      "|breadboard|"
+    ],
+    "top_20_tags": [
+      "|capacitor|",
+      "|operational-amplifier|",
+      "|altium|",
+      "|transistors|",
+      "|transistors|bjt|",
+      "|pcie|pci|",
+      "|uart|serial|",
+      "|stm32|video|decoder|",
+      "|power-supply|power|usb|usb-c|",
+      "|breadboard|",
+      "|voltage-regulator|",
+      "|mosfet|switch-mode-power-supply|",
+      "|schematics|altium|",
+      "|pcb-design|gsm|",
+      "|operational-amplifier|driver|multiplexer|dac|",
+      "|standard|lighting|",
+      "|microcontroller|adc|pins|encoder|",
+      "|diodes|history|",
+      "|inrush-current|gfci|",
+      "|analog|resistance|analog-computer|"
+    ],
+    "tag_counts": {
+      "|capacitor|": 3,
+      "|operational-amplifier|": 3,
+      "|altium|": 3,
+      "|transistors|": 2,
+      "|transistors|bjt|": 2,
+      "|pcie|pci|": 2,
+      "|uart|serial|": 2,
+      "|stm32|video|decoder|": 2,
+      "|power-supply|power|usb|usb-c|": 2,
+      "|breadboard|": 2,
+      "|voltage-regulator|": 2,
+      "|mosfet|switch-mode-power-supply|": 2,
+      "|schematics|altium|": 2,
+      "|pcb-design|gsm|": 1,
+      "|operational-amplifier|driver|multiplexer|dac|": 1,
+      "|standard|lighting|": 1,
+      "|microcontroller|adc|pins|encoder|": 1,
+      "|diodes|history|": 1,
+      "|inrush-current|gfci|": 1,
+      "|analog|resistance|analog-computer|": 1
+    },
+    "avg_tags_per_user": 1.29,
+    "expertise_domains": [
+      [
+        "Power Electronics",
+        3
+      ],
+      [
+        "Analog Circuits",
+        3
+      ],
+      [
+        "Audio/Video",
+        3
+      ],
+      [
+        "Arduino/Microcontrollers",
+        1
+      ],
+      [
+        "PCB Design",
+        1
+      ],
+      [
+        "Sensors/Measurement",
+        1
+      ],
+      [
+        "Motors/Actuators",
+        1
+      ]
+    ],
+    "primary_domain": "Power Electronics"
+  },
+  "wavemap_32_3_1": {
+    "user_count": 421,
+    "total_tags": 471,
+    "unique_tags": 447,
+    "diversity": 6.075,
+    "top_5_tags": [
+      "|power-supply|",
+      "|arduino|",
+      "|soldering|",
+      "|spice|",
+      "|jitter|"
+    ],
+    "top_10_tags": [
+      "|power-supply|",
+      "|arduino|",
+      "|soldering|",
+      "|spice|",
+      "|jitter|",
+      "|xilinx|ise|",
+      "|microcontroller|",
+      "|usb|",
+      "|wireless|",
+      "|transformer|"
+    ],
+    "top_20_tags": [
+      "|power-supply|",
+      "|arduino|",
+      "|soldering|",
+      "|spice|",
+      "|jitter|",
+      "|xilinx|ise|",
+      "|microcontroller|",
+      "|usb|",
+      "|wireless|",
+      "|transformer|",
+      "|resistors|",
+      "|diodes|",
+      "|capacitor|",
+      "|operational-amplifier|",
+      "|altium|",
+      "|lilypad|clothing|",
+      "|pcb|",
+      "|capacitor|components|",
+      "|pcb-design|altium|eda|",
+      "|analog|schematics|"
+    ],
+    "tag_counts": {
+      "|power-supply|": 4,
+      "|arduino|": 4,
+      "|soldering|": 3,
+      "|spice|": 3,
+      "|jitter|": 3,
+      "|xilinx|ise|": 2,
+      "|microcontroller|": 2,
+      "|usb|": 2,
+      "|wireless|": 2,
+      "|transformer|": 2,
+      "|resistors|": 2,
+      "|diodes|": 2,
+      "|capacitor|": 2,
+      "|operational-amplifier|": 2,
+      "|altium|": 2,
+      "|lilypad|clothing|": 2,
+      "|pcb|": 2,
+      "|capacitor|components|": 1,
+      "|pcb-design|altium|eda|": 1,
+      "|analog|schematics|": 1
+    },
+    "avg_tags_per_user": 1.12,
+    "expertise_domains": [
+      [
+        "Arduino/Microcontrollers",
+        3
+      ],
+      [
+        "Power Electronics",
+        2
+      ],
+      [
+        "Analog Circuits",
+        2
+      ],
+      [
+        "PCB Design",
+        2
+      ],
+      [
+        "Raspberry Pi/Computing",
+        1
+      ],
+      [
+        "RF/Wireless",
+        1
+      ],
+      [
+        "Audio/Video",
+        1
+      ]
+    ],
+    "primary_domain": "Arduino/Microcontrollers"
+  },
+  "wavemap_18_11_1": {
+    "user_count": 747,
+    "total_tags": 618,
+    "unique_tags": 588,
+    "diversity": 6.354,
+    "top_5_tags": [
+      "|power-supply|",
+      "|stepper-motor|",
+      "|operational-amplifier|",
+      "|resistors|",
+      "|wire|"
+    ],
+    "top_10_tags": [
+      "|power-supply|",
+      "|stepper-motor|",
+      "|operational-amplifier|",
+      "|resistors|",
+      "|wire|",
+      "|capacitor|identification|",
+      "|datasheet|",
+      "|microcontroller|programming|",
+      "|operational-amplifier|circuit-analysis|",
+      "|mosfet|switches|"
+    ],
+    "top_20_tags": [
+      "|power-supply|",
+      "|stepper-motor|",
+      "|operational-amplifier|",
+      "|resistors|",
+      "|wire|",
+      "|capacitor|identification|",
+      "|datasheet|",
+      "|microcontroller|programming|",
+      "|operational-amplifier|circuit-analysis|",
+      "|mosfet|switches|",
+      "|gps|",
+      "|dsp|",
+      "|rfid|",
+      "|vhdl|",
+      "|function-generator|",
+      "|terminology|",
+      "|audio|",
+      "|led|",
+      "|bjt|current-source|current-mirror|",
+      "|esd|"
+    ],
+    "tag_counts": {
+      "|power-supply|": 4,
+      "|stepper-motor|": 3,
+      "|operational-amplifier|": 3,
+      "|resistors|": 3,
+      "|wire|": 3,
+      "|capacitor|identification|": 2,
+      "|datasheet|": 2,
+      "|microcontroller|programming|": 2,
+      "|operational-amplifier|circuit-analysis|": 2,
+      "|mosfet|switches|": 2,
+      "|gps|": 2,
+      "|dsp|": 2,
+      "|rfid|": 2,
+      "|vhdl|": 2,
+      "|function-generator|": 2,
+      "|terminology|": 2,
+      "|audio|": 2,
+      "|led|": 2,
+      "|bjt|current-source|current-mirror|": 2,
+      "|esd|": 2
+    },
+    "avg_tags_per_user": 0.83,
+    "expertise_domains": [
+      [
+        "Audio/Video",
+        3
+      ],
+      [
+        "Analog Circuits",
+        2
+      ],
+      [
+        "Arduino/Microcontrollers",
+        1
+      ],
+      [
+        "Power Electronics",
+        1
+      ],
+      [
+        "RF/Wireless",
+        1
+      ],
+      [
+        "Digital Logic",
+        1
+      ],
+      [
+        "Motors/Actuators",
+        1
+      ]
+    ],
+    "primary_domain": "Audio/Video"
+  },
+  "wavemap_13_5607_1": {
+    "user_count": 724,
+    "total_tags": 656,
+    "unique_tags": 553,
+    "diversity": 6.142,
+    "top_5_tags": [
+      "|altium|",
+      "|circuit-analysis|",
+      "|pcb|pcb-design|",
+      "|stepper-motor|",
+      "|vhdl|"
+    ],
+    "top_10_tags": [
+      "|altium|",
+      "|circuit-analysis|",
+      "|pcb|pcb-design|",
+      "|stepper-motor|",
+      "|vhdl|",
+      "|soldering|",
+      "|arduino|",
+      "|sensor|",
+      "|canopen|",
+      "|electromagnetism|physics|"
+    ],
+    "top_20_tags": [
+      "|altium|",
+      "|circuit-analysis|",
+      "|pcb|pcb-design|",
+      "|stepper-motor|",
+      "|vhdl|",
+      "|soldering|",
+      "|arduino|",
+      "|sensor|",
+      "|canopen|",
+      "|electromagnetism|physics|",
+      "|pcb|altium|",
+      "|power-supply|",
+      "|batteries|",
+      "|voltage-regulator|",
+      "|resistors|",
+      "|battery-charging|",
+      "|led|",
+      "|pcb|",
+      "|microcontroller|",
+      "|lcd|"
+    ],
+    "tag_counts": {
+      "|altium|": 19,
+      "|circuit-analysis|": 18,
+      "|pcb|pcb-design|": 10,
+      "|stepper-motor|": 5,
+      "|vhdl|": 5,
+      "|soldering|": 4,
+      "|arduino|": 3,
+      "|sensor|": 3,
+      "|canopen|": 3,
+      "|electromagnetism|physics|": 3,
+      "|pcb|altium|": 3,
+      "|power-supply|": 3,
+      "|batteries|": 3,
+      "|voltage-regulator|": 3,
+      "|resistors|": 3,
+      "|battery-charging|": 3,
+      "|led|": 3,
+      "|pcb|": 3,
+      "|microcontroller|": 2,
+      "|lcd|": 2
+    },
+    "avg_tags_per_user": 0.91,
+    "expertise_domains": [
+      [
+        "Power Electronics",
+        3
+      ],
+      [
+        "PCB Design",
+        3
+      ],
+      [
+        "Arduino/Microcontrollers",
+        2
+      ],
+      [
+        "Digital Logic",
+        1
+      ],
+      [
+        "Sensors/Measurement",
+        1
+      ],
+      [
+        "Motors/Actuators",
+        1
+      ]
+    ],
+    "primary_domain": "Power Electronics"
+  },
+  "wavemap_11_23_1": {
+    "user_count": 523,
+    "total_tags": 570,
+    "unique_tags": 538,
+    "diversity": 6.264,
+    "top_5_tags": [
+      "|matlab|simulink|",
+      "|control|control-system|matlab|",
+      "|mosfet|",
+      "|integrated-circuit|",
+      "|control|control-system|"
+    ],
+    "top_10_tags": [
+      "|matlab|simulink|",
+      "|control|control-system|matlab|",
+      "|mosfet|",
+      "|integrated-circuit|",
+      "|control|control-system|",
+      "|capacitor|capacitance|",
+      "|clock|",
+      "|operational-amplifier|",
+      "|filter|",
+      "|video|"
+    ],
+    "top_20_tags": [
+      "|matlab|simulink|",
+      "|control|control-system|matlab|",
+      "|mosfet|",
+      "|integrated-circuit|",
+      "|control|control-system|",
+      "|capacitor|capacitance|",
+      "|clock|",
+      "|operational-amplifier|",
+      "|filter|",
+      "|video|",
+      "|bluetooth-low-energy|",
+      "|led|",
+      "|verilog|",
+      "|timing-analysis|",
+      "|integrated-circuit|identification|",
+      "|pcie|sata|",
+      "|avr|programmer|",
+      "|arduino|avr|programmer|attiny|avrdude|",
+      "|esd|tvs|",
+      "|altium|"
+    ],
+    "tag_counts": {
+      "|matlab|simulink|": 3,
+      "|control|control-system|matlab|": 3,
+      "|mosfet|": 3,
+      "|integrated-circuit|": 3,
+      "|control|control-system|": 2,
+      "|capacitor|capacitance|": 2,
+      "|clock|": 2,
+      "|operational-amplifier|": 2,
+      "|filter|": 2,
+      "|video|": 2,
+      "|bluetooth-low-energy|": 2,
+      "|led|": 2,
+      "|verilog|": 2,
+      "|timing-analysis|": 2,
+      "|integrated-circuit|identification|": 2,
+      "|pcie|sata|": 2,
+      "|avr|programmer|": 2,
+      "|arduino|avr|programmer|attiny|avrdude|": 2,
+      "|esd|tvs|": 2,
+      "|altium|": 2
+    },
+    "avg_tags_per_user": 1.09,
+    "expertise_domains": [
+      [
+        "Arduino/Microcontrollers",
+        2
+      ],
+      [
+        "Analog Circuits",
+        2
+      ],
+      [
+        "Audio/Video",
+        2
+      ],
+      [
+        "RF/Wireless",
+        1
+      ],
+      [
+        "Digital Logic",
+        1
+      ]
+    ],
+    "primary_domain": "Arduino/Microcontrollers"
+  },
+  "wavemap_9_3097_1": {
+    "user_count": 907,
+    "total_tags": 542,
+    "unique_tags": 491,
+    "diversity": 6.137,
+    "top_5_tags": [
+      "|mosfet|",
+      "|soldering|",
+      "|power-supply|",
+      "|microcontroller|",
+      "|led|"
+    ],
+    "top_10_tags": [
+      "|mosfet|",
+      "|soldering|",
+      "|power-supply|",
+      "|microcontroller|",
+      "|led|",
+      "|operational-amplifier|",
+      "|buck|",
+      "|comparator|",
+      "|capacitor|",
+      "|circuit-analysis|"
+    ],
+    "top_20_tags": [
+      "|mosfet|",
+      "|soldering|",
+      "|power-supply|",
+      "|microcontroller|",
+      "|led|",
+      "|operational-amplifier|",
+      "|buck|",
+      "|comparator|",
+      "|capacitor|",
+      "|circuit-analysis|",
+      "|adc|",
+      "|arduino|",
+      "|spi|",
+      "|pcb|",
+      "|voltage-divider|",
+      "|flipflop|",
+      "|inductor|",
+      "|verilog|",
+      "|fpga|verilog|",
+      "|fpga|"
+    ],
+    "tag_counts": {
+      "|mosfet|": 6,
+      "|soldering|": 5,
+      "|power-supply|": 4,
+      "|microcontroller|": 4,
+      "|led|": 4,
+      "|operational-amplifier|": 4,
+      "|buck|": 3,
+      "|comparator|": 3,
+      "|capacitor|": 3,
+      "|circuit-analysis|": 3,
+      "|adc|": 3,
+      "|arduino|": 3,
+      "|spi|": 2,
+      "|pcb|": 2,
+      "|voltage-divider|": 2,
+      "|flipflop|": 2,
+      "|inductor|": 2,
+      "|verilog|": 2,
+      "|fpga|verilog|": 2,
+      "|fpga|": 2
+    },
+    "avg_tags_per_user": 0.6,
+    "expertise_domains": [
+      [
+        "Digital Logic",
+        3
+      ],
+      [
+        "Arduino/Microcontrollers",
+        2
+      ],
+      [
+        "Raspberry Pi/Computing",
+        1
+      ],
+      [
+        "Power Electronics",
+        1
+      ],
+      [
+        "Analog Circuits",
+        1
+      ],
+      [
+        "PCB Design",
+        1
+      ],
+      [
+        "Sensors/Measurement",
+        1
+      ],
+      [
+        "Audio/Video",
+        1
+      ]
+    ],
+    "primary_domain": "Digital Logic"
+  },
+  "wavemap_8_3_1": {
+    "user_count": 711,
+    "total_tags": 410,
+    "unique_tags": 390,
+    "diversity": 5.943,
+    "top_5_tags": [
+      "|dc-dc-converter|",
+      "|batteries|",
+      "|eaglecad|",
+      "|arduino|power-supply|",
+      "|microprocessor|"
+    ],
+    "top_10_tags": [
+      "|dc-dc-converter|",
+      "|batteries|",
+      "|eaglecad|",
+      "|arduino|power-supply|",
+      "|microprocessor|",
+      "|led|",
+      "|operational-amplifier|",
+      "|transistors|",
+      "|high-voltage|",
+      "|dac|"
+    ],
+    "top_20_tags": [
+      "|dc-dc-converter|",
+      "|batteries|",
+      "|eaglecad|",
+      "|arduino|power-supply|",
+      "|microprocessor|",
+      "|led|",
+      "|operational-amplifier|",
+      "|transistors|",
+      "|high-voltage|",
+      "|dac|",
+      "|safety|esd|equipment|workbench|",
+      "|circuit-analysis|resistors|resistance|ohms-law|",
+      "|circuit-analysis|current|kirchhoffs-laws|",
+      "|voltage|circuit-analysis|kirchhoffs-laws|ohms-law|",
+      "|voltage|circuit-analysis|current|kirchhoffs-laws|ohms-law|",
+      "|voltage|circuit-analysis|resistors|resistance|ohms-law|",
+      "|power|led|",
+      "|pic|uart|pll|",
+      "|microcontroller|fft|",
+      "|raspberry-pi|embedded|bluetooth|"
+    ],
+    "tag_counts": {
+      "|dc-dc-converter|": 4,
+      "|batteries|": 3,
+      "|eaglecad|": 3,
+      "|arduino|power-supply|": 2,
+      "|microprocessor|": 2,
+      "|led|": 2,
+      "|operational-amplifier|": 2,
+      "|transistors|": 2,
+      "|high-voltage|": 2,
+      "|dac|": 2,
+      "|safety|esd|equipment|workbench|": 2,
+      "|circuit-analysis|resistors|resistance|ohms-law|": 2,
+      "|circuit-analysis|current|kirchhoffs-laws|": 2,
+      "|voltage|circuit-analysis|kirchhoffs-laws|ohms-law|": 2,
+      "|voltage|circuit-analysis|current|kirchhoffs-laws|ohms-law|": 2,
+      "|voltage|circuit-analysis|resistors|resistance|ohms-law|": 2,
+      "|power|led|": 1,
+      "|pic|uart|pll|": 1,
+      "|microcontroller|fft|": 1,
+      "|raspberry-pi|embedded|bluetooth|": 1
+    },
+    "avg_tags_per_user": 0.58,
+    "expertise_domains": [
+      [
+        "Arduino/Microcontrollers",
+        4
+      ],
+      [
+        "Raspberry Pi/Computing",
+        1
+      ],
+      [
+        "Power Electronics",
+        1
+      ],
+      [
+        "RF/Wireless",
+        1
+      ],
+      [
+        "Analog Circuits",
+        1
+      ],
+      [
+        "PCB Design",
+        1
+      ],
+      [
+        "Audio/Video",
+        1
+      ]
+    ],
+    "primary_domain": "Arduino/Microcontrollers"
+  },
+  "wavemap_7_13363_2": {
+    "user_count": 816,
+    "total_tags": 376,
+    "unique_tags": 355,
+    "diversity": 5.844,
+    "top_5_tags": [
+      "|operational-amplifier|",
+      "|inductor|",
+      "|pwm|",
+      "|eaglecad|",
+      "|vacuum-tube|"
+    ],
+    "top_10_tags": [
+      "|operational-amplifier|",
+      "|inductor|",
+      "|pwm|",
+      "|eaglecad|",
+      "|vacuum-tube|",
+      "|mosfet|",
+      "|transistors|bjt|",
+      "|amplifier|bjt|",
+      "|components|",
+      "|transistors|"
+    ],
+    "top_20_tags": [
+      "|operational-amplifier|",
+      "|inductor|",
+      "|pwm|",
+      "|eaglecad|",
+      "|vacuum-tube|",
+      "|mosfet|",
+      "|transistors|bjt|",
+      "|amplifier|bjt|",
+      "|components|",
+      "|transistors|",
+      "|microcontroller|8051|",
+      "|8051|",
+      "|capacitor|",
+      "|datasheet|",
+      "|transistors|schmitt-trigger|",
+      "|memory|flash|mbed|",
+      "|transistors|pcb-design|proteus|thermistor|",
+      "|microcontroller|sensor|atmega|robotics|matlab|",
+      "|dc-motor|matlab|pid-controller|",
+      "|microcontroller|led|avr|atmega|avr-gcc|"
+    ],
+    "tag_counts": {
+      "|operational-amplifier|": 4,
+      "|inductor|": 3,
+      "|pwm|": 3,
+      "|eaglecad|": 3,
+      "|vacuum-tube|": 2,
+      "|mosfet|": 2,
+      "|transistors|bjt|": 2,
+      "|amplifier|bjt|": 2,
+      "|components|": 2,
+      "|transistors|": 2,
+      "|microcontroller|8051|": 2,
+      "|8051|": 2,
+      "|capacitor|": 2,
+      "|datasheet|": 2,
+      "|transistors|schmitt-trigger|": 2,
+      "|memory|flash|mbed|": 2,
+      "|transistors|pcb-design|proteus|thermistor|": 1,
+      "|microcontroller|sensor|atmega|robotics|matlab|": 1,
+      "|dc-motor|matlab|pid-controller|": 1,
+      "|microcontroller|led|avr|atmega|avr-gcc|": 1
+    },
+    "avg_tags_per_user": 0.46,
+    "expertise_domains": [
+      [
+        "Arduino/Microcontrollers",
+        3
+      ],
+      [
+        "Analog Circuits",
+        2
+      ],
+      [
+        "PCB Design",
+        2
+      ],
+      [
+        "Audio/Video",
+        2
+      ],
+      [
+        "Sensors/Measurement",
+        1
+      ],
+      [
+        "Motors/Actuators",
+        1
+      ]
+    ],
+    "primary_domain": "Arduino/Microcontrollers"
+  },
+  "wavemap_6_169_1": {
+    "user_count": 1224,
+    "total_tags": 734,
+    "unique_tags": 691,
+    "diversity": 6.5,
+    "top_5_tags": [
+      "|operational-amplifier|",
+      "|kicad|",
+      "|mosfet|",
+      "|capacitor|",
+      "|verilog|system-verilog|"
+    ],
+    "top_10_tags": [
+      "|operational-amplifier|",
+      "|kicad|",
+      "|mosfet|",
+      "|capacitor|",
+      "|verilog|system-verilog|",
+      "|photodiode|",
+      "|inductor|",
+      "|led|led-driver|",
+      "|stm32|",
+      "|batteries|voltage-regulator|"
+    ],
+    "top_20_tags": [
+      "|operational-amplifier|",
+      "|kicad|",
+      "|mosfet|",
+      "|capacitor|",
+      "|verilog|system-verilog|",
+      "|photodiode|",
+      "|inductor|",
+      "|led|led-driver|",
+      "|stm32|",
+      "|batteries|voltage-regulator|",
+      "|microcontroller|",
+      "|led|",
+      "|usb|",
+      "|radio|",
+      "|circuit-analysis|diodes|",
+      "|adc|",
+      "|i2c|",
+      "|voltage-regulator|",
+      "|transformer|",
+      "|oscilloscope|"
+    ],
+    "tag_counts": {
+      "|operational-amplifier|": 7,
+      "|kicad|": 5,
+      "|mosfet|": 4,
+      "|capacitor|": 4,
+      "|verilog|system-verilog|": 3,
+      "|photodiode|": 3,
+      "|inductor|": 3,
+      "|led|led-driver|": 3,
+      "|stm32|": 2,
+      "|batteries|voltage-regulator|": 2,
+      "|microcontroller|": 2,
+      "|led|": 2,
+      "|usb|": 2,
+      "|radio|": 2,
+      "|circuit-analysis|diodes|": 2,
+      "|adc|": 2,
+      "|i2c|": 2,
+      "|voltage-regulator|": 2,
+      "|transformer|": 2,
+      "|oscilloscope|": 2
+    },
+    "avg_tags_per_user": 0.6,
+    "expertise_domains": [
+      [
+        "Power Electronics",
+        3
+      ],
+      [
+        "Arduino/Microcontrollers",
+        1
+      ],
+      [
+        "Raspberry Pi/Computing",
+        1
+      ],
+      [
+        "RF/Wireless",
+        1
+      ],
+      [
+        "Analog Circuits",
+        1
+      ],
+      [
+        "Digital Logic",
+        1
+      ],
+      [
+        "PCB Design",
+        1
+      ],
+      [
+        "Sensors/Measurement",
+        1
+      ],
+      [
+        "Motors/Actuators",
+        1
+      ],
+      [
+        "Audio/Video",
+        1
+      ]
+    ],
+    "primary_domain": "Power Electronics"
+  },
+  "wavemap_5_12699_1": {
+    "user_count": 1556,
+    "total_tags": 1221,
+    "unique_tags": 1075,
+    "diversity": 6.859,
+    "top_5_tags": [
+      "|altium|",
+      "|vhdl|",
+      "|rf|",
+      "|cache|",
+      "|fpga|vhdl|"
+    ],
+    "top_10_tags": [
+      "|altium|",
+      "|vhdl|",
+      "|rf|",
+      "|cache|",
+      "|fpga|vhdl|",
+      "|operational-amplifier|",
+      "|eaglecad|",
+      "|vhdl|system-verilog|",
+      "|esd|",
+      "|circuit-design|parallel|series|"
+    ],
+    "top_20_tags": [
+      "|altium|",
+      "|vhdl|",
+      "|rf|",
+      "|cache|",
+      "|fpga|vhdl|",
+      "|operational-amplifier|",
+      "|eaglecad|",
+      "|vhdl|system-verilog|",
+      "|esd|",
+      "|circuit-design|parallel|series|",
+      "|verilog|",
+      "|fpga|",
+      "|rf|antenna|",
+      "|resistors|",
+      "|fpga|intel-fpga|",
+      "|computer-architecture|",
+      "|simulation|modelsim|",
+      "|bjt|",
+      "|quartus|",
+      "|led|"
+    ],
+    "tag_counts": {
+      "|altium|": 19,
+      "|vhdl|": 15,
+      "|rf|": 10,
+      "|cache|": 9,
+      "|fpga|vhdl|": 8,
+      "|operational-amplifier|": 6,
+      "|eaglecad|": 5,
+      "|vhdl|system-verilog|": 5,
+      "|esd|": 5,
+      "|circuit-design|parallel|series|": 4,
+      "|verilog|": 4,
+      "|fpga|": 4,
+      "|rf|antenna|": 4,
+      "|resistors|": 3,
+      "|fpga|intel-fpga|": 3,
+      "|computer-architecture|": 3,
+      "|simulation|modelsim|": 3,
+      "|bjt|": 3,
+      "|quartus|": 3,
+      "|led|": 3
+    },
+    "avg_tags_per_user": 0.78,
+    "expertise_domains": [
+      [
+        "Digital Logic",
+        6
+      ],
+      [
+        "RF/Wireless",
+        2
+      ],
+      [
+        "Analog Circuits",
+        1
+      ],
+      [
+        "PCB Design",
+        1
+      ],
+      [
+        "Audio/Video",
+        1
+      ]
+    ],
+    "primary_domain": "Digital Logic"
+  },
+  "wavemap_4_179_1": {
+    "user_count": 2405,
+    "total_tags": 657,
+    "unique_tags": 611,
+    "diversity": 6.366,
+    "top_5_tags": [
+      "|circuit-analysis|",
+      "|power-supply|",
+      "|vhdl|",
+      "|ac|waveform|",
+      "|battery-charging|"
+    ],
+    "top_10_tags": [
+      "|circuit-analysis|",
+      "|power-supply|",
+      "|vhdl|",
+      "|ac|waveform|",
+      "|battery-charging|",
+      "|adc|",
+      "|altium|",
+      "|stm32|",
+      "|rfid|",
+      "|i2c|"
+    ],
+    "top_20_tags": [
+      "|circuit-analysis|",
+      "|power-supply|",
+      "|vhdl|",
+      "|ac|waveform|",
+      "|battery-charging|",
+      "|adc|",
+      "|altium|",
+      "|stm32|",
+      "|rfid|",
+      "|i2c|",
+      "|led|dimmer|",
+      "|power-supply|power|",
+      "|pic|uart|",
+      "|pwm|",
+      "|servo|",
+      "|power|amplifier|",
+      "|batteries|",
+      "|power-supply|noise|",
+      "|can|",
+      "|operational-amplifier|"
+    ],
+    "tag_counts": {
+      "|circuit-analysis|": 8,
+      "|power-supply|": 5,
+      "|vhdl|": 4,
+      "|ac|waveform|": 4,
+      "|battery-charging|": 4,
+      "|adc|": 4,
+      "|altium|": 3,
+      "|stm32|": 3,
+      "|rfid|": 2,
+      "|i2c|": 2,
+      "|led|dimmer|": 2,
+      "|power-supply|power|": 2,
+      "|pic|uart|": 2,
+      "|pwm|": 2,
+      "|servo|": 2,
+      "|power|amplifier|": 2,
+      "|batteries|": 2,
+      "|power-supply|noise|": 2,
+      "|can|": 2,
+      "|operational-amplifier|": 2
+    },
+    "avg_tags_per_user": 0.27,
+    "expertise_domains": [
+      [
+        "Power Electronics",
+        4
+      ],
+      [
+        "Analog Circuits",
+        2
+      ],
+      [
+        "Audio/Video",
+        2
+      ],
+      [
+        "Arduino/Microcontrollers",
+        1
+      ],
+      [
+        "Raspberry Pi/Computing",
+        1
+      ],
+      [
+        "RF/Wireless",
+        1
+      ],
+      [
+        "Digital Logic",
+        1
+      ],
+      [
+        "Sensors/Measurement",
+        1
+      ],
+      [
+        "Motors/Actuators",
+        1
+      ]
+    ],
+    "primary_domain": "Power Electronics"
+  },
+  "wavemap_3_17881_1": {
+    "user_count": 3319,
+    "total_tags": 1251,
+    "unique_tags": 1109,
+    "diversity": 6.928,
+    "top_5_tags": [
+      "|mosfet|",
+      "|brushless-dc-motor|",
+      "|connector|",
+      "|battery-charging|",
+      "|altium|"
+    ],
+    "top_10_tags": [
+      "|mosfet|",
+      "|brushless-dc-motor|",
+      "|connector|",
+      "|battery-charging|",
+      "|altium|",
+      "|power-supply|",
+      "|usb|",
+      "|ltspice|",
+      "|voltage-regulator|",
+      "|batteries|"
+    ],
+    "top_20_tags": [
+      "|mosfet|",
+      "|brushless-dc-motor|",
+      "|connector|",
+      "|battery-charging|",
+      "|altium|",
+      "|power-supply|",
+      "|usb|",
+      "|ltspice|",
+      "|voltage-regulator|",
+      "|batteries|",
+      "|batteries|battery-charging|",
+      "|transformer|",
+      "|adc|",
+      "|comparator|",
+      "|orcad|",
+      "|dc-dc-converter|",
+      "|cables|",
+      "|circuit-analysis|",
+      "|microcontroller|",
+      "|pcb|"
+    ],
+    "tag_counts": {
+      "|mosfet|": 7,
+      "|brushless-dc-motor|": 7,
+      "|connector|": 7,
+      "|battery-charging|": 7,
+      "|altium|": 7,
+      "|power-supply|": 6,
+      "|usb|": 6,
+      "|ltspice|": 6,
+      "|voltage-regulator|": 5,
+      "|batteries|": 5,
+      "|batteries|battery-charging|": 5,
+      "|transformer|": 4,
+      "|adc|": 4,
+      "|comparator|": 4,
+      "|orcad|": 4,
+      "|dc-dc-converter|": 3,
+      "|cables|": 3,
+      "|circuit-analysis|": 3,
+      "|microcontroller|": 3,
+      "|pcb|": 3
+    },
+    "avg_tags_per_user": 0.38,
+    "expertise_domains": [
+      [
+        "Power Electronics",
+        5
+      ],
+      [
+        "Arduino/Microcontrollers",
+        2
+      ],
+      [
+        "Raspberry Pi/Computing",
+        1
+      ],
+      [
+        "PCB Design",
+        1
+      ],
+      [
+        "Sensors/Measurement",
+        1
+      ],
+      [
+        "Motors/Actuators",
+        1
+      ]
+    ],
+    "primary_domain": "Power Electronics"
+  },
+  "wavemap_2_16614_1": {
+    "user_count": 5010,
+    "total_tags": 1047,
+    "unique_tags": 979,
+    "diversity": 6.843,
+    "top_5_tags": [
+      "|verilog|",
+      "|fpga|lattice|",
+      "|mosfet|",
+      "|verilog|synthesis|",
+      "|operational-amplifier|"
+    ],
+    "top_10_tags": [
+      "|verilog|",
+      "|fpga|lattice|",
+      "|mosfet|",
+      "|verilog|synthesis|",
+      "|operational-amplifier|",
+      "|power-supply|",
+      "|vhdl|",
+      "|batteries|",
+      "|eaglecad|",
+      "|ethernet|"
+    ],
+    "top_20_tags": [
+      "|verilog|",
+      "|fpga|lattice|",
+      "|mosfet|",
+      "|verilog|synthesis|",
+      "|operational-amplifier|",
+      "|power-supply|",
+      "|vhdl|",
+      "|batteries|",
+      "|eaglecad|",
+      "|ethernet|",
+      "|adc|",
+      "|digital-logic|",
+      "|pcb|pcb-design|pcb-fabrication|",
+      "|voltage-regulator|lm317|",
+      "|modbus|",
+      "|pic|timer|interrupts|",
+      "|soldering|surface-mount|reflow|",
+      "|operational-amplifier|instrumentation-amplifier|",
+      "|kicad|",
+      "|dc-dc-converter|"
+    ],
+    "tag_counts": {
+      "|verilog|": 6,
+      "|fpga|lattice|": 6,
+      "|mosfet|": 5,
+      "|verilog|synthesis|": 5,
+      "|operational-amplifier|": 4,
+      "|power-supply|": 4,
+      "|vhdl|": 4,
+      "|batteries|": 4,
+      "|eaglecad|": 4,
+      "|ethernet|": 3,
+      "|adc|": 3,
+      "|digital-logic|": 3,
+      "|pcb|pcb-design|pcb-fabrication|": 2,
+      "|voltage-regulator|lm317|": 2,
+      "|modbus|": 2,
+      "|pic|timer|interrupts|": 2,
+      "|soldering|surface-mount|reflow|": 2,
+      "|operational-amplifier|instrumentation-amplifier|": 2,
+      "|kicad|": 2,
+      "|dc-dc-converter|": 2
+    },
+    "avg_tags_per_user": 0.21,
+    "expertise_domains": [
+      [
+        "Digital Logic",
+        5
+      ],
+      [
+        "PCB Design",
+        3
+      ],
+      [
+        "Power Electronics",
+        2
+      ],
+      [
+        "Analog Circuits",
+        2
+      ],
+      [
+        "Audio/Video",
+        2
+      ],
+      [
+        "Arduino/Microcontrollers",
+        1
+      ],
+      [
+        "RF/Wireless",
+        1
+      ],
+      [
+        "Sensors/Measurement",
+        1
+      ]
+    ],
+    "primary_domain": "Digital Logic"
+  },
+  "wavemap_1_17795_20": {
+    "user_count": 5684,
+    "total_tags": 1246,
+    "unique_tags": 1149,
+    "diversity": 6.996,
+    "top_5_tags": [
+      "|operational-amplifier|",
+      "|vhdl|",
+      "|power-supply|",
+      "|microcontroller|",
+      "|altium|"
+    ],
+    "top_10_tags": [
+      "|operational-amplifier|",
+      "|vhdl|",
+      "|power-supply|",
+      "|microcontroller|",
+      "|altium|",
+      "|current|",
+      "|connector|",
+      "|capacitor|",
+      "|pcb-design|",
+      "|dali|"
+    ],
+    "top_20_tags": [
+      "|operational-amplifier|",
+      "|vhdl|",
+      "|power-supply|",
+      "|microcontroller|",
+      "|altium|",
+      "|current|",
+      "|connector|",
+      "|capacitor|",
+      "|pcb-design|",
+      "|dali|",
+      "|switches|",
+      "|transistors|",
+      "|pcb|pcb-design|",
+      "|dc-dc-converter|",
+      "|amplifier|audio|",
+      "|connector|identification|",
+      "|voltage-regulator|",
+      "|computer-architecture|mips|",
+      "|mains|",
+      "|components|"
+    ],
+    "tag_counts": {
+      "|operational-amplifier|": 9,
+      "|vhdl|": 7,
+      "|power-supply|": 5,
+      "|microcontroller|": 4,
+      "|altium|": 4,
+      "|current|": 4,
+      "|connector|": 4,
+      "|capacitor|": 4,
+      "|pcb-design|": 4,
+      "|dali|": 4,
+      "|switches|": 3,
+      "|transistors|": 3,
+      "|pcb|pcb-design|": 3,
+      "|dc-dc-converter|": 3,
+      "|amplifier|audio|": 3,
+      "|connector|identification|": 3,
+      "|voltage-regulator|": 3,
+      "|computer-architecture|mips|": 2,
+      "|mains|": 2,
+      "|components|": 2
+    },
+    "avg_tags_per_user": 0.22,
+    "expertise_domains": [
+      [
+        "Power Electronics",
+        2
+      ],
+      [
+        "Analog Circuits",
+        2
+      ],
+      [
+        "PCB Design",
+        2
+      ],
+      [
+        "Audio/Video",
+        2
+      ],
+      [
+        "Arduino/Microcontrollers",
+        1
+      ],
+      [
+        "Digital Logic",
+        1
+      ]
+    ],
+    "primary_domain": "Power Electronics"
+  }
+}

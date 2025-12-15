@@ -1,0 +1,187 @@
+{
+  "total_buildings": 15,
+  "buildings": [
+    "wavemap_76_87_1",
+    "wavemap_51_18_1",
+    "wavemap_32_3_1",
+    "wavemap_18_11_1",
+    "wavemap_13_5607_1",
+    "wavemap_11_23_1",
+    "wavemap_9_3097_1",
+    "wavemap_8_3_1",
+    "wavemap_7_13363_2",
+    "wavemap_6_169_1",
+    "wavemap_5_12699_1",
+    "wavemap_4_179_1",
+    "wavemap_3_17881_1",
+    "wavemap_2_16614_1",
+    "wavemap_1_17795_20"
+  ],
+  "building_summaries": {
+    "wavemap_76_87_1": {
+      "users": 157,
+      "top_5_tags": [
+        "|operational-amplifier|photodiode|",
+        "|microprocessor|",
+        "|mosfet|nmos|",
+        "|microcontroller|mosfet|pwm|h-bridge|",
+        "|transistors|h-bridge|npn|pnp|"
+      ],
+      "primary_domain": "Arduino/Microcontrollers"
+    },
+    "wavemap_51_18_1": {
+      "users": 337,
+      "top_5_tags": [
+        "|capacitor|",
+        "|operational-amplifier|",
+        "|altium|",
+        "|transistors|",
+        "|transistors|bjt|"
+      ],
+      "primary_domain": "Power Electronics"
+    },
+    "wavemap_32_3_1": {
+      "users": 421,
+      "top_5_tags": [
+        "|power-supply|",
+        "|arduino|",
+        "|soldering|",
+        "|spice|",
+        "|jitter|"
+      ],
+      "primary_domain": "Arduino/Microcontrollers"
+    },
+    "wavemap_18_11_1": {
+      "users": 747,
+      "top_5_tags": [
+        "|power-supply|",
+        "|stepper-motor|",
+        "|operational-amplifier|",
+        "|resistors|",
+        "|wire|"
+      ],
+      "primary_domain": "Audio/Video"
+    },
+    "wavemap_13_5607_1": {
+      "users": 724,
+      "top_5_tags": [
+        "|altium|",
+        "|circuit-analysis|",
+        "|pcb|pcb-design|",
+        "|stepper-motor|",
+        "|vhdl|"
+      ],
+      "primary_domain": "Power Electronics"
+    },
+    "wavemap_11_23_1": {
+      "users": 523,
+      "top_5_tags": [
+        "|matlab|simulink|",
+        "|control|control-system|matlab|",
+        "|mosfet|",
+        "|integrated-circuit|",
+        "|control|control-system|"
+      ],
+      "primary_domain": "Arduino/Microcontrollers"
+    },
+    "wavemap_9_3097_1": {
+      "users": 907,
+      "top_5_tags": [
+        "|mosfet|",
+        "|soldering|",
+        "|power-supply|",
+        "|microcontroller|",
+        "|led|"
+      ],
+      "primary_domain": "Digital Logic"
+    },
+    "wavemap_8_3_1": {
+      "users": 711,
+      "top_5_tags": [
+        "|dc-dc-converter|",
+        "|batteries|",
+        "|eaglecad|",
+        "|arduino|power-supply|",
+        "|microprocessor|"
+      ],
+      "primary_domain": "Arduino/Microcontrollers"
+    },
+    "wavemap_7_13363_2": {
+      "users": 816,
+      "top_5_tags": [
+        "|operational-amplifier|",
+        "|inductor|",
+        "|pwm|",
+        "|eaglecad|",
+        "|vacuum-tube|"
+      ],
+      "primary_domain": "Arduino/Microcontrollers"
+    },
+    "wavemap_6_169_1": {
+      "users": 1224,
+      "top_5_tags": [
+        "|operational-amplifier|",
+        "|kicad|",
+        "|mosfet|",
+        "|capacitor|",
+        "|verilog|system-verilog|"
+      ],
+      "primary_domain": "Power Electronics"
+    },
+    "wavemap_5_12699_1": {
+      "users": 1556,
+      "top_5_tags": [
+        "|altium|",
+        "|vhdl|",
+        "|rf|",
+        "|cache|",
+        "|fpga|vhdl|"
+      ],
+      "primary_domain": "Digital Logic"
+    },
+    "wavemap_4_179_1": {
+      "users": 2405,
+      "top_5_tags": [
+        "|circuit-analysis|",
+        "|power-supply|",
+        "|vhdl|",
+        "|ac|waveform|",
+        "|battery-charging|"
+      ],
+      "primary_domain": "Power Electronics"
+    },
+    "wavemap_3_17881_1": {
+      "users": 3319,
+      "top_5_tags": [
+        "|mosfet|",
+        "|brushless-dc-motor|",
+        "|connector|",
+        "|battery-charging|",
+        "|altium|"
+      ],
+      "primary_domain": "Power Electronics"
+    },
+    "wavemap_2_16614_1": {
+      "users": 5010,
+      "top_5_tags": [
+        "|verilog|",
+        "|fpga|lattice|",
+        "|mosfet|",
+        "|verilog|synthesis|",
+        "|operational-amplifier|"
+      ],
+      "primary_domain": "Digital Logic"
+    },
+    "wavemap_1_17795_20": {
+      "users": 5684,
+      "top_5_tags": [
+        "|operational-amplifier|",
+        "|vhdl|",
+        "|power-supply|",
+        "|microcontroller|",
+        "|altium|"
+      ],
+      "primary_domain": "Power Electronics"
+    }
+  }
+}
