@@ -1,0 +1,9 @@
+{
+"vertices":5584,
+"edges":19274,
+"preprocessing-time":27,
+"wave-time":2,
+"label-time":3,
+"write-time":28,
+"maxdeg":508
+}

@@ -1,0 +1,1 @@
+|dataset:stackoverflow_electronics_4-179|vertices:5584|edges:19274|connected_fixpoints:1|peel_values:1|buckets:1|

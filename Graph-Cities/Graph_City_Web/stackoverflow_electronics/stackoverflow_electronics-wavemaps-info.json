@@ -1,0 +1,8 @@
+{
+"wavemaps":44,
+"read-clones-time":4,
+"init-wavemap-time":5,
+"read-wavemap-time":7,
+"map-clones-time":147,
+"write-wavemap-time":23
+}

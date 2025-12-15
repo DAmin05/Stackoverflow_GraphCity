@@ -1,0 +1,149 @@
+{
+  "name": "stackoverflow_electronics",
+  "description": "",
+  "vertices": 24541,
+  "edges": 146084,
+  "preprocessing-time": 3,
+  "algorithm-time": 149,
+  "maxdeg": 3602,
+  "io-time": 114,
+  "peels": [
+    76,
+    51,
+    32,
+    18,
+    13,
+    11,
+    9,
+    8,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1
+  ],
+  "layers": [
+    {
+      "peel": 76,
+      "vertices": 157,
+      "edges": 8504,
+      "num_fixedpoints": 1,
+      "num_waves": 1,
+      "num_frags": 13
+    },
+    {
+      "peel": 51,
+      "vertices": 312,
+      "edges": 13031,
+      "num_fixedpoints": 1,
+      "num_waves": 2,
+      "num_frags": 36
+    },
+    {
+      "peel": 32,
+      "vertices": 671,
+      "edges": 18368,
+      "num_fixedpoints": 1,
+      "num_waves": 1,
+      "num_frags": 39
+    },
+    {
+      "peel": 18,
+      "vertices": 1004,
+      "edges": 16223,
+      "num_fixedpoints": 1,
+      "num_waves": 13,
+      "num_frags": 76
+    },
+    {
+      "peel": 13,
+      "vertices": 29,
+      "edges": 208,
+      "num_fixedpoints": 1,
+      "num_waves": 1,
+      "num_frags": 2
+    },
+    {
+      "peel": 11,
+      "vertices": 1253,
+      "edges": 11620,
+      "num_fixedpoints": 1,
+      "num_waves": 1,
+      "num_frags": 40
+    },
+    {
+      "peel": 9,
+      "vertices": 20,
+      "edges": 90,
+      "num_fixedpoints": 2,
+      "num_waves": 1,
+      "num_frags": 1
+    },
+    {
+      "peel": 8,
+      "vertices": 2159,
+      "edges": 14148,
+      "num_fixedpoints": 1,
+      "num_waves": 3,
+      "num_frags": 78
+    },
+    {
+      "peel": 7,
+      "vertices": 24,
+      "edges": 85,
+      "num_fixedpoints": 2,
+      "num_waves": 1,
+      "num_frags": 2
+    },
+    {
+      "peel": 6,
+      "vertices": 2612,
+      "edges": 12241,
+      "num_fixedpoints": 1,
+      "num_waves": 3,
+      "num_frags": 31
+    },
+    {
+      "peel": 5,
+      "vertices": 561,
+      "edges": 1785,
+      "num_fixedpoints": 6,
+      "num_waves": 2,
+      "num_frags": 6
+    },
+    {
+      "peel": 4,
+      "vertices": 5584,
+      "edges": 19274,
+      "num_fixedpoints": 1,
+      "num_waves": 11,
+      "num_frags": 67
+    },
+    {
+      "peel": 3,
+      "vertices": 3793,
+      "edges": 8445,
+      "num_fixedpoints": 10,
+      "num_waves": 2,
+      "num_frags": 10
+    },
+    {
+      "peel": 2,
+      "vertices": 8142,
+      "edges": 13294,
+      "num_fixedpoints": 39,
+      "num_waves": 7,
+      "num_frags": 28
+    },
+    {
+      "peel": 1,
+      "vertices": 10915,
+      "edges": 8768,
+      "num_fixedpoints": 2147,
+      "num_waves": 5,
+      "num_frags": 5
+    }
+  ]
+}

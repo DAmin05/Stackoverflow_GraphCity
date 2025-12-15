@@ -1,0 +1,8 @@
+{
+"vertices":24541,
+"edges":146084,
+"preprocessing-time":3,
+"algorithm-time":149,
+"maxdeg":3602,
+"io-time":114
+}

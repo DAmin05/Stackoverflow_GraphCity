@@ -1,0 +1,123 @@
+{
+	"76": {
+		"vertices": 157,
+		"edges": 8504,
+		"file_suffix": 76,
+		"num_fixedpoints": 1,
+		"num_waves": 1,
+		"num_frags": 13
+	},
+	"51": {
+		"vertices": 312,
+		"edges": 13031,
+		"file_suffix": 76,
+		"num_fixedpoints": 1,
+		"num_waves": 2,
+		"num_frags": 36
+	},
+	"32": {
+		"vertices": 671,
+		"edges": 18368,
+		"file_suffix": 76,
+		"num_fixedpoints": 1,
+		"num_waves": 1,
+		"num_frags": 39
+	},
+	"18": {
+		"vertices": 1004,
+		"edges": 16223,
+		"file_suffix": 76,
+		"num_fixedpoints": 1,
+		"num_waves": 13,
+		"num_frags": 76
+	},
+	"13": {
+		"vertices": 29,
+		"edges": 208,
+		"file_suffix": 76,
+		"num_fixedpoints": 1,
+		"num_waves": 1,
+		"num_frags": 2
+	},
+	"11": {
+		"vertices": 1253,
+		"edges": 11620,
+		"file_suffix": 76,
+		"num_fixedpoints": 1,
+		"num_waves": 1,
+		"num_frags": 40
+	},
+	"9": {
+		"vertices": 20,
+		"edges": 90,
+		"file_suffix": 76,
+		"num_fixedpoints": 2,
+		"num_waves": 1,
+		"num_frags": 1
+	},
+	"8": {
+		"vertices": 2159,
+		"edges": 14148,
+		"file_suffix": 76,
+		"num_fixedpoints": 1,
+		"num_waves": 3,
+		"num_frags": 78
+	},
+	"7": {
+		"vertices": 24,
+		"edges": 85,
+		"file_suffix": 76,
+		"num_fixedpoints": 2,
+		"num_waves": 1,
+		"num_frags": 2
+	},
+	"6": {
+		"vertices": 2612,
+		"edges": 12241,
+		"file_suffix": 76,
+		"num_fixedpoints": 1,
+		"num_waves": 3,
+		"num_frags": 31
+	},
+	"5": {
+		"vertices": 561,
+		"edges": 1785,
+		"file_suffix": 76,
+		"num_fixedpoints": 6,
+		"num_waves": 2,
+		"num_frags": 6
+	},
+	"4": {
+		"vertices": 5584,
+		"edges": 19274,
+		"file_suffix": 76,
+		"num_fixedpoints": 1,
+		"num_waves": 11,
+		"num_frags": 67
+	},
+	"3": {
+		"vertices": 3793,
+		"edges": 8445,
+		"file_suffix": 76,
+		"num_fixedpoints": 10,
+		"num_waves": 2,
+		"num_frags": 10
+	},
+	"2": {
+		"vertices": 8142,
+		"edges": 13294,
+		"file_suffix": 76,
+		"num_fixedpoints": 39,
+		"num_waves": 7,
+		"num_frags": 28
+	},
+	"1": {
+		"vertices": 10915,
+		"edges": 8768,
+		"file_suffix": 76,
+		"num_fixedpoints": 2147,
+		"num_waves": 5,
+		"num_frags": 5
+	},
+	"0": {}
+}

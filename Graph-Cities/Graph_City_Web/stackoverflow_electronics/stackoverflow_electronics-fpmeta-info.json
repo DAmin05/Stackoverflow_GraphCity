@@ -1,0 +1,10 @@
+{
+"clones":37236,
+"intersection-weights":31235,
+"preprocess-time":14,
+"write-ids-time":1,
+"sort-time":3,
+"intersection-time":1,
+"write-intersection-time":3,
+"write-clone-count-time":1
+}
